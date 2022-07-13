@@ -1,12 +1,12 @@
 import React from 'react';
 
-const Profile =({}) => {
+function Profile({ profile }) {
   return (
-      <section>
-          <h2 className="Profile-title"></h2>
-          <div className='Profile-desc'><p></p></div>
-      </section>
+    <section>
+      <h2 className='Profile-title'>About me</h2>
+      <div className='Profile-desc'><p>{profile}</p></div>
+    </section>
   );
-};
+}
 
 export default Profile;

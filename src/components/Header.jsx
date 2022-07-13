@@ -1,11 +1,12 @@
 import React from 'react';
 
-const Header =({}) => {
+function Header({ name, children }) {
   return (
-      <header>
-          <h2 className="Header-title"></h2>
-      </header>
+    <header>
+      <h1 className='Header-title'>{name}</h1>
+      {children}
+    </header>
   );
-};
+}
 
 export default Header;

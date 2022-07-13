@@ -1,87 +1,92 @@
 {
   "data": {
-    "name": "Melissa Walsh",
-    "profession": "FrontEnd Developer",
-    "address": "Bogotá, Colombia.",
-    "email": "melissa@example.com",
-    "website": "https://example.com",
-    "phone": "3042034240",
-    "avatar": "https://arepa.s3.amazonaws.com/melissa.jpg",
-    "Profile": "Ignore the squirrels, you'll never catch them anyway hack, for floof tum, tickle bum, jellybean footies curly toes climb leg roll over and sun my belly, ",
-    "certificate": [
-      {
-        "date": "Jan 2021",
-        "description": "Hack up furballs try to jump onto window and fall while scratching at wall. ",
-        "institution": "Platzi",
-        "name": "FrontEnd Developer"
-      },
-      {
-        "date": "Jan 2021",
-        "description": "Scratch at the door then walk away wack the mini furry mouse",
-        "institution": "Platzi",
-        "name": "Backend Developer"
-      }
-    ],
+    "name": "Pablo Polanco",
+    "profession": "Backend Developer",
+    "address": "Quilpué, Valparaiso, Chile.",
+    "email": "pabpolval@gmail.com",
+    "website": "https://www.pablopolanco.com",
+    "phone": "+56999772358",
+    "avatar": "https://lh3.googleusercontent.com/jB54cUIPDun4B7EM0BHqZd8kfLfB4by_LFr7E6SfWFBJ847loVqHGSVc4D0ejL9haf43SxufdmA9ZiNyP_-tCw1lpl_GSCqtTgMoADntBJtMoEEejJDncIq9tnWcopvSB7rOmQ0xLQUWtJT0QzGSpdlY57hUeJoaPYyYC28pYtuEERAmSWctRf2lM8ZjmT9EDATPLpErRf0hwnyEAq-vz3zkyD3v6sVOe4H20bFk8mSONlTmvkI5OlmFUOfgR4Bt_uoBMoicfbnY0-DTGEIFODQnnvMwil3Yw70erXB1wv5fY5OoNvniEhEc7AIuR0BFYJr8bhIx7OTTfGubt4szCbyHvFWV2JttyJ0i1MUHVZa-bTM5srwITbNOBdmNCtNSQzbis32agzfT4ojj9n1k7Dn1WT6-bqPi8jkN4yksP4MLfegGNS5XtCZSnLBGGC1nOqqhPMZ59b2cq4oJqaaCy4WEJTV9BGkBWsJseT7go8Vl3cMD1KEWPH-i38OIQ9r9BeIr-Kif6-v0ErJOYZ-0FMDip4Hh-d_KhUYeN1KqOldrqNAyqqbWvkMiQNmjr2gtKQjlMNzq35WjYe7qDb2vqDitV3NwYBj0tZkqBxuTjoGXmARnpfTEyRm9GAYON7BJWDqP6MPTIzroSwyEJxPHn1c6dGI8Qo-1--Ki4E13Yh_pC_RGsBtYi61NcuAesMD67kUz5IHY5npX7hTbddqKrcJ6J_wDQhg54OnuDPXMCwco59wFBzYwuadoFFI2Zg=s745-no?authuser=0",
+    "Profile": "I am a 30-year-old industrial engineer with a critical and analytical mind, I spent several years carrying out a personal project where I applied administration and management concepts that I acquired in my degree. It is thanks to this experience that I developed a high capacity to work under pressure and a quick adaptation to new scenarios. Today I am experiencing a change in my professional life towards the IT field by training myself in web development and I lookiing forward for new challenge where i can be a professional and personal contribution to to work groups. and so continuing to expand my knowledge in this area ",
     "Academic": [
       {
-        "degree": "Atomic Master",
-        "description": " I’m so hungry i’m so hungry but ew not for that pelt around the house and up and down stairs chasing phantoms",
-        "endDate": "Jan 2017",
-        "institution": "MIT",
-        "startDate": "Jan 2018"
+        "degree": "INDUSTRIAL ENGINEERING",
+        "endDate": "Jul 2017",
+        "institution": "Universidad de Valparaiso",
+        "startDate": "Jan 2011"
       },
       {
-        "degree": "Space Engineering",
-        "description": "Meow in empty rooms. Find empty spot in cupboard and sleep all day check cat door for ambush 10 times before coming in for hack. ",
-        "endDate": "Decenber 2015",
-        "institution": "Harvard",
-        "startDate": "Jan 2017"
+        "degree": "FULL STACK JAVA APPLICATION DEVELOPMENT",
+        "endDate": "Dec 2021",
+        "institution": "Edutecno - Talento Digital",
+        "startDate": "Jul 2021"
       }
     ],
     "experience": [
       {
-        "company": "PugStar",
+        "company": "ALKEMY",
         "endDate": "Present",
-        "jobDescription": "scratch the furniture. Good now the other hand, too lay on arms while you're using the keyboard.",
-        "jobTitle": "Frontend",
-        "startDate": "Jan 2020"
+        "jobDescription": "Development environment simulation for backend project for a NGO. In which I worked with Java language and the Spring framework with Spring Boot and Spring Security modules developing components in the different layers of the application. The team was organized with the tool Jira, with a Scrum ceremony per week in which the ticket are asigned to be carried out. For version control i used Git and GitHub. to generate useful documentation i used Swagger.",
+        "jobTitle": "ACELERATION PROGRAM",
+        "startDate": "Oct 2021"
       },
       {
-        "company": "CatStore",
-        "endDate": "Jan 2016",
-        "jobDescription": "Meow in empty rooms lick left leg for ninety minutes, still dirty.",
+        "company": "HONEY BIT",
+        "endDate": "Jan 2012",
+        "jobDescription": "Personal project of pastry for celebrations. where I developed client management tasks, production process management and financial management.",
         "jobTitle": "Backend",
         "startDate": "Sept 2019"
+      },
+      {
+        "company": "INDURA CHILE",
+        "endDate": "Sep 2016",
+        "jobDescription": "Design of an operational improvement plan for the electrode cutting line, Implementation of VSM (value stream mapping), as a diagnostic tool for the production line. Construction of FMEA matrix to identify specific faults. According to the information collected in the analysis, a Factorial design of experiments was used to determine the most pertinent solution to the faults found.",
+        "jobTitle": "THESIS WORKER",
+        "startDate": "Jul 2017"
+      },
+      {
+        "company": "ENAP",
+        "endDate": "Jan 2016",
+        "jobDescription": "Preparation of a database with the most relevant events of the most critical plants of the refinery within the period 2014 - 2015.",
+        "jobTitle": "INTERN",
+        "startDate": "Mar 2016"
       }
     ],
     "skills": [
       {
-        "name": "HTML5",
-        "percentage": "75%"
+        "name": "Java",
+        "percentage": "85%"
+      },
+      {
+        "name": "Spring",
+        "percentage": "70%"
       },
       {
         "name": "CSS",
-        "percentage": "25%"
+        "percentage": "65%"
+      },      
+      {
+        "name": "CSS",
+        "percentage": "65%"
       },
       {
         "name": "JavaScript",
-        "percentage": "55%"
+        "percentage": "65%"
       },
       {
         "name": "React",
-        "percentage": "90%"
+        "percentage": "30%"
       }
     ],
     "interest": [
       "javascript",
-      "develop",
-      "backend",
-      "frontend"
+      "node",
+      "web3"
     ],
     "languages": [
       {
         "name": "Spanish",
-        "percentage": "90%"
+        "percentage": "100%"
       },
       {
         "name": "English",
@@ -90,20 +95,16 @@
     ],
     "social": [
       {
-        "name": "facebook",
-        "url": "https://facebook.com/"
-      },
-      {
         "name": "twitter",
         "url": "https://twitter.com/"
       },
       {
         "name": "github",
-        "url": "https://github.com/"
+        "url": "github.com/pabpol"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/"
+        "url": "linkedin.com/in/pablo-polanco-valdes"
       }
     ]
   }

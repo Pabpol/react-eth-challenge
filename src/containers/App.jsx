@@ -10,55 +10,49 @@ import Interest from '../components/Interest';
 import Languages from '../components/Languages';
 import getData from '../utils/getData';
 
-const App = () => {
+function App() {
   const [person, setPerson] = useState([]);
-
-
-  useEffect(() => {
-    getPersonData();
-  }, []);
 
   const getPersonData = async () => {
     const response = await getData('https://raw.githubusercontent.com/Pabpol/react-eth-challenge/main/data.json');
     setPerson(response.data);
   };
-  
 
-  console.log(person.name)
+  useEffect(() => {
+    getPersonData();
+  }, []);
 
   const {
-    Academic: academics,
     address,
-    avatar,
     email,
-    experience: experiences,
     interest: interests,
-    languages,
     name,
     phone,
-    profession,
-    Profile: profile,
-    skills,
     website,
+    Profile: profile,
+    experience,
+    skills,
+    Academic: academics,
+    languages,
   } = person;
   return (
     <>
       <Header name={name}>
         <About
-            address={address}
-            email={email}
-            phone={phone}
-            website={website}
+          address={address}
+          email={email}
+          phone={phone}
+          website={website}
         />
       </Header>
-      <Profile />
-      <Experience />
-      <Academic />
-      <Skills />
-      <Interest />
-      <Languages />
+      <Profile profile={profile} />
+      <Experience experiences={experience} />
+      <Academic academics={academics} />
+      <Skills skills={skills} />
+      <Interest interests={interests} />
+      <Languages languages={languages} />
     </>
   );
-};
+}
 
 export default App;
